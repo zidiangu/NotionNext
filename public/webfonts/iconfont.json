@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "11536334",
+      "name": "导航",
+      "font_class": "daohang",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
       "icon_id": "1126",
       "name": "文件夹",
       "font_class": "wenjianjia",
