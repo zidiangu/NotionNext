@@ -6,6 +6,55 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1069168",
+      "name": "导航",
+      "font_class": "daohang1",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "2471350",
+      "name": "导航",
+      "font_class": "daohang2",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "3777778",
+      "name": "导航",
+      "font_class": "daohang3",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "5387526",
+      "name": "导航",
+      "font_class": "daohang4",
+      "unicode": "eaf2",
+      "unicode_decimal": 60146
+    },
+    {
+      "icon_id": "8765227",
+      "name": "导航",
+      "font_class": "daohang5",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "11902249",
+      "name": "导航",
+      "font_class": "daohang-",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "26847610",
+      "name": "导航",
+      "font_class": "daohang6",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
       "icon_id": "11536334",
       "name": "导航",
       "font_class": "daohang",
